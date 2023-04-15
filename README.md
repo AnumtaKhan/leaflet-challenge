@@ -5,4 +5,4 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 
 In this challenge, I have developed a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
-### You can find the Earthquake Visualization here: 
+### You can find the Earthquake Visualization here: https://anumtakhan.github.io/leaflet-challenge/
